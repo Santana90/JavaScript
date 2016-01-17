@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Tittle </title>
+</head>
+<body>
+<SCRIPT SRC="bucle.js"></SCRIPT>
+<p>This is a paragraph</p>
+<p/>
+
+</body>
+</html>
