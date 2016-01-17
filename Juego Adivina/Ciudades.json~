@@ -1,0 +1,82 @@
+
+    "paises": [
+        {
+            "nombre": "Arda Turan",
+	        "latitud": "55",
+            "longitud": "-3"
+        },
+        {
+            "nombre": "Djokovic",
+            "latitud": "43",
+            "longitud": "-3.656"
+        },
+        {
+            "nombre": "Fernando Torres",
+            "latitud": "40",
+            "longitud": "-3"
+        }
+    ]
+}
+
+{
+	"type": "FeatureCollection",
+	"features": 
+	[
+        {
+			"geometry": {
+	                    "type": "Point",
+	                    "coordinates": [40.4168, -3.7038]
+			},
+			"type": "Feature",
+			"properties": {
+	                    "Name": "Madrid"
+			},
+			"id": 1
+        },
+        {
+			"geometry": {
+	                    "type": "Point",
+	                    "coordinates": [ -34.6083,-58.3712]
+			},
+			"type": "Feature",
+			"properties": {
+	                    "Name": "Buenos Aires"
+			},
+			"id": 2
+        },
+        {
+			"geometry": {
+	                    "type": "Point",
+	                    "coordinates": [-33.8667,151.2]
+			},
+			"type": "Feature",
+			"properties": {
+	                    "Name": "Sydney"
+			},
+			"id": 3
+        },
+        {
+			"geometry": {
+	                    "type": "Point",
+	                    "coordinates": [37.7699,-122.226]
+			},
+			"type": "Feature",
+			"properties": {
+	                    "Name": "Oakland"
+			},
+			"id": 4
+        },
+        {
+			"geometry": {
+	                    "type": "Point",
+	                    "coordinates": [35.6894, 139.692]
+			},
+			"type": "Feature",
+			"properties": {
+	                    "Name": "Tokio"
+			},
+			"id": 5
+        }
+	]
+}
+
